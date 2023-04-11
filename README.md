@@ -1,1 +1,1 @@
-# Ethereal-Developers-Inc.github.io
+# ethereal-developers.github.io
